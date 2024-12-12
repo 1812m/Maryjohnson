@@ -1,8 +1,28 @@
-# Maryjohnson-LITA-PROJECT-DOCUMENTATION
+# Maryjohnson
+
+# LITA-PROJECT-DOCUMENTATION
+
 This is my first project as I continue to learn with the Incubator Hub. Am passionate to become Business Anayst.
-The Material used  : 
-sale data and customer data
-The tools uesd : 
-Execl; power Bi.
-Project sturcture: 
-Display how i explore sales and customers data using execl and power Bi. In execl, didferent pivot tables were used, while power Bi was used for the visualisation.
+
+ ##The project : 
+ 
+ # Data soures
+The primary data source used for this project is sale cvs and it is an opened source freely to download from an opened source onlineas kaggle or any other data source
+
+ Tools used:
+
+  _ Microsoft excel 
+  
+    1. Data cleanings 
+    
+    2. For analysis
+    
+    3. Pivot tabale 
+    
+    4. For Visulisation
+    
+  _ SQL
+  
+  _ Github for building porfolio
+  
+   _ Power Bi.
