@@ -48,4 +48,8 @@ _ This is where we include line some of code or DAX for the expression used duri
    1. Select *from Table 1
    2. Where condition  = True
 
+
+# Data visulization
+
+
    
