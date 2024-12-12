@@ -16,7 +16,7 @@ This is my first project as I continue to learn with the Incubator Hub. Am passi
 
  [Exploratory Data analysis](#exploratory-data-anaylsis) 
  
- {Data anaylsis}(#data-anaylsis)
+ [Data anaylsis](#data-anaylsis)
   
  [Data visulization](data#visulizatiom)
   
