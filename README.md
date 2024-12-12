@@ -107,7 +107,6 @@ _ This is where we include line some of code or DAX for the expression used duri
 
 
 
-|Heading 1| |Heading 2| |Heading 3|
-|-------------| |-------------| |----------|
+
 
    
