@@ -106,4 +106,8 @@ _ This is where we include line some of code or DAX for the expression used duri
 ![image](https://github.com/user-attachments/assets/271fc660-f09e-480a-aec3-9d90480c51de)
 
 
+
+|Heading 1| |Heading 2| |Heading 3|
+|-------------| |-------------| |----------|
+
    
