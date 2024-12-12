@@ -11,7 +11,7 @@ The primary data source used for this project is sale cvs and it is an opened so
 
  Tools used:
 
-  _ Microsoft excel {Download Here}(https://www.microsoft.com/en-us/microsoft-365/download-office)
+  _ Microsoft excel {Download Here).(https://www.microsoft.com/en-us/microsoft-365/download-office)
   
     1. Data cleanings 
     
