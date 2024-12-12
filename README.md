@@ -2,21 +2,23 @@
 
 # LITA-PROJECT-DOCUMENTATION
 
+# Project overview
+
 This is my first project as I continue to learn with the Incubator Hub. Am passionate to become Business Anayst.
 
- The project : 
+ [The project overview]:(#project-overview)
  
- Data soures
+ [Data sources](#data-source) 
  
- Tools used
+ [Tools used](#tools-used)
   
- Data cleaning and Perparetion
+ [Data cleaning and Perparetion](#data-cleaningandpreparation)
 
- Exploratory Data analysis 
+ [Exploratory Data analysis](#exploratory-data-anaylsis) 
  
- Data anaylsis
+ {Data anaylsis}(#data-anaylsis)
   
- Data visulization
+ [Data visulization](data#visulizatiom)
   
   
  # Data soures
