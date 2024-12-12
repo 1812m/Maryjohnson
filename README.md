@@ -103,7 +103,7 @@ _ This is where we include line some of code or DAX for the expression used duri
 
 
 # Data visulization
+![image](https://github.com/user-attachments/assets/271fc660-f09e-480a-aec3-9d90480c51de)
 
-https://github.com/1812m/Maryjohnson-LITA-PROJECT-DOCUMENTATION/commit/f9b5bddb288b98dddb3aa2a38b8fc41e903e0373
-   
+
    
