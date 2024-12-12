@@ -6,6 +6,19 @@ This is my first project as I continue to learn with the Incubator Hub. Am passi
 
  The project : 
  
+ Data soures
+ 
+ Tools used
+  
+ Data cleaning and Perparetion
+
+ Exploratory Data analysis 
+ 
+ Data anaylsis
+  
+ Data visulization
+  
+  
  # Data soures
 The primary data source used for this project is sale cvs and it is an opened source freely to download from an opened source onlineas kaggle or any other data source
 
